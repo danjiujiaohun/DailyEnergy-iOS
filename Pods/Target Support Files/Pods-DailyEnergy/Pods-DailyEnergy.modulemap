@@ -1,0 +1,6 @@
+framework module Pods_DailyEnergy {
+  umbrella header "Pods-DailyEnergy-umbrella.h"
+
+  export *
+  module * { export * }
+}

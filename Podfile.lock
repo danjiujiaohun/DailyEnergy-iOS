@@ -1,7 +1,7 @@
 PODS:
   - Alamofire (5.4.4)
   - HandyJSON (5.0.2)
-  - IQKeyboardManager (6.5.11)
+  - IQKeyboardManager (6.5.19)
   - JXBanner (0.3.6):
     - JXBanner/Banner (= 0.3.6)
     - JXBanner/PageControl (= 0.3.6)
@@ -33,29 +33,31 @@ PODS:
     - JXPageControl/Common
   - JXPageControl/Transform (0.1.5):
     - JXPageControl/Common
-  - JXPagingView (2.1.2):
-    - JXPagingView/Pager (= 2.1.2)
-    - JXPagingView/Paging (= 2.1.2)
-  - JXPagingView/Pager (2.1.2)
-  - JXPagingView/Paging (2.1.2)
-  - JXSegmentedView (1.3.0)
-  - LookinServer (1.1.5):
-    - LookinServer/Core (= 1.1.5)
-  - LookinServer/Core (1.1.5)
-  - MJRefresh (3.7.5)
-  - RTRootNavigationController (0.8.0):
-    - RTRootNavigationController/Core (= 0.8.0)
-  - RTRootNavigationController/Core (0.8.0)
-  - SDWebImage/Core (5.15.6)
-  - SDWebImage/MapKit (5.15.6):
+  - JXPagingView (2.1.3):
+    - JXPagingView/Pager (= 2.1.3)
+    - JXPagingView/Paging (= 2.1.3)
+  - JXPagingView/Pager (2.1.3)
+  - JXPagingView/Paging (2.1.3)
+  - JXSegmentedView (1.4.1)
+  - LookinServer (1.2.8):
+    - LookinServer/Core (= 1.2.8)
+  - LookinServer/Core (1.2.8)
+  - MJRefresh (3.7.9)
+  - RTRootNavigationController (0.8.1):
+    - RTRootNavigationController/Core (= 0.8.1)
+  - RTRootNavigationController/Core (0.8.1)
+  - SDWebImage/Core (5.21.3)
+  - SDWebImage/MapKit (5.21.3):
     - SDWebImage/Core
-  - SnapKit (5.6.0)
-  - SVProgressHUD (2.2.5)
-  - TZImagePickerController (3.8.3):
-    - TZImagePickerController/Basic (= 3.8.3)
-    - TZImagePickerController/Location (= 3.8.3)
-  - TZImagePickerController/Basic (3.8.3)
-  - TZImagePickerController/Location (3.8.3)
+  - SnapKit (5.7.1)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - TZImagePickerController (3.8.9):
+    - TZImagePickerController/Basic (= 3.8.9)
+    - TZImagePickerController/Location (= 3.8.9)
+  - TZImagePickerController/Basic (3.8.9)
+  - TZImagePickerController/Location (3.8.9)
   - YYText (1.0.7)
 
 DEPENDENCIES:
@@ -95,20 +97,20 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
   HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
-  IQKeyboardManager: ef43ce1ba1e5aaf4adf222c0a46f39761f246879
+  IQKeyboardManager: c8665b3396bd0b79402b4c573eac345a31c7d485
   JXBanner: 348dbef856e786494cbf30fb45d6b84826f2d3c5
   JXPageControl: e9487b39e2e58fc17790833214f3b8e935bef98b
-  JXPagingView: 90924b364a2ff7e94db534fad1fa50925ff69ee4
-  JXSegmentedView: fec0d335355b6e019c494fe2e030bde8a36d2df6
-  LookinServer: 2893f2bae53cbf3fd49bbe1a8ea1745582ef1317
-  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
-  RTRootNavigationController: 36c6301870f0467f89d69f4286795340b537d473
-  SDWebImage: d47d81bea8a77187896b620dc79c3c528e8906b9
-  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
-  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
-  TZImagePickerController: e9909edbadf7381140efc5b5c9f5bdbfd630f7d4
+  JXPagingView: afdd2e9af09c90160dd232b970d603cc6e7ddd0e
+  JXSegmentedView: cd73555ce2134d1656db2cb383ba9c2f36fb5078
+  LookinServer: 1b2b61c6402ae29fa22182d48f5cd067b4e99e80
+  MJRefresh: ff9e531227924c84ce459338414550a05d2aea78
+  RTRootNavigationController: ca443783baf6ff65a70c4d21ce0eedbbc1fec1fe
+  SDWebImage: 16309af6d214ba3f77a7c6f6fdda888cb313a50a
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  TZImagePickerController: 456f470b5dea97b37226ec7a694994a8663340b2
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
-PODFILE CHECKSUM: ff30ea26db8b577ec4c8135344bc033cb32b44ac
+PODFILE CHECKSUM: 04d1f672b2f165bbb531d56062ae29979c1c244f
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.16.2

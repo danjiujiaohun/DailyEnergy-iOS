@@ -69,6 +69,7 @@
 #import "UIImageView+WebCache.h"
 #import "UIView+WebCache.h"
 #import "UIView+WebCacheOperation.h"
+#import "UIView+WebCacheState.h"
 #import "SDWebImage.h"
 #import "MKAnnotationView+WebCache.h"
 

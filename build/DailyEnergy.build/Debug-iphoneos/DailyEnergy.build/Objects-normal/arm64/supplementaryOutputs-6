@@ -1,0 +1,18 @@
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Features/Home/ViewModels/HomeViewModel.swift":
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.o"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.d"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.swiftdeps"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.dia"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Features/Profile/ViewModels/ProfileViewModel.swift":
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.swiftdeps"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.dia"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.d"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.swiftconstvalues"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.o"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Features/Profile/Views/ProfileViewController.swift":
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.d"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.dia"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.swiftdeps"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.swiftconstvalues"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.o"

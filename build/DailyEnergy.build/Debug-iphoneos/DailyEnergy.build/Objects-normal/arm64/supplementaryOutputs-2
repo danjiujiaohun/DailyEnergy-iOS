@@ -1,0 +1,24 @@
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/BundleExt.swift":
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.o"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.swiftdeps"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.d"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.swiftconstvalues"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Network/UserDefaultsKeys.swift":
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.swiftconstvalues"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.dia"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.o"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.swiftdeps"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.d"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/UIColor.swift":
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.d"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.swiftconstvalues"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.o"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.swiftdeps"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Models/AuthModels.swift":
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.swiftconstvalues"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.o"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.dia"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.d"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.swiftdeps"

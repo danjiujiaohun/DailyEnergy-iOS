@@ -1,0 +1,18 @@
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Services/AIService.swift":
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.swiftdeps"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.d"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.swiftconstvalues"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.o"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/Common.swift":
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.swiftconstvalues"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.dia"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.swiftdeps"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.d"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.o"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Services/CalorieService.swift":
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.d"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.swiftdeps"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.o"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.swiftconstvalues"

@@ -1,0 +1,24 @@
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/RootViewController.swift":
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.swiftconstvalues"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.swiftdeps"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.d"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.o"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/BaseViewController.swift":
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.swiftconstvalues"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.d"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.dia"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.swiftdeps"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.o"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/UIFontExt.swift":
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.d"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.swiftdeps"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.swiftconstvalues"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.o"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/UIImage.swift":
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.o"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.d"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.swiftdeps"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.swiftconstvalues"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.dia"

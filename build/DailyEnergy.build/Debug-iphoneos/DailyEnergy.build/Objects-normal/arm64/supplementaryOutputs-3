@@ -1,0 +1,24 @@
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Network/APIConfig.swift":
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.o"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.d"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.swiftdeps"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.swiftconstvalues"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Network/APIEndpoints.swift":
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.d"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.swiftdeps"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.o"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.swiftconstvalues"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Network/NetworkError.swift":
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.dia"
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.swiftconstvalues"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.swiftdeps"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.d"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.o"
+"/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/DailyEnergy/Network/NetworkManager.swift":
+  const-values: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.swiftconstvalues"
+  object: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.o"
+  diagnostics: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.dia"
+  dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.d"
+  swift-dependencies: "/Users/liangjiangbin/Documents/\u6BCF\u65E5\u70ED\u91CF-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.swiftdeps"

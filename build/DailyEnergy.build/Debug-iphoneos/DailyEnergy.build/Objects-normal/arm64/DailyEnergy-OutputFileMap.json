@@ -1,0 +1,288 @@
+{
+  "" : {
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/DailyEnergy-master.dia",
+    "emit-module-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/DailyEnergy-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/DailyEnergy-master-emit-module.dia",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/DailyEnergy-master.swiftdeps"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/AppDelegate.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/AdapterExt.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AdapterExt.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AdapterExt.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AdapterExt.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AdapterExt.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AdapterExt.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AdapterExt.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AdapterExt.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AdapterExt~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/BaseViewController.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BaseViewController~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/BundleExt.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/BundleExt~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/Common.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/Common~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/UIFontExt.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIFontExt~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/BaseUnit/UILabelExt.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UILabelExt.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UILabelExt.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UILabelExt.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UILabelExt.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UILabelExt.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UILabelExt.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UILabelExt.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UILabelExt~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Features/Home/ViewModels/HomeViewModel.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewModel~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Features/Home/Views/HomeViewController.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewController.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewController.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewController.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewController.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewController.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewController.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewController.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/HomeViewController~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Features/Profile/ViewModels/ProfileViewModel.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewModel~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Features/Profile/Views/ProfileViewController.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/ProfileViewController~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Models/AIModels.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIModels.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIModels.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIModels.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIModels.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIModels.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIModels.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIModels.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIModels~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Models/AuthModels.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthModels~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Models/CalorieModels.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieModels.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieModels.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieModels.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieModels.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieModels.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieModels.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieModels.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieModels~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Models/UserModels.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserModels.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserModels.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserModels.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserModels.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserModels.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserModels.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserModels.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserModels~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Network/APIConfig.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIConfig~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Network/APIEndpoints.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/APIEndpoints~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Network/NetworkError.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkError~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Network/NetworkManager.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/NetworkManager~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Network/UserDefaultsKeys.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserDefaultsKeys~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/RootViewController.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/RootViewController~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Services/AIService.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AIService~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Services/AuthService.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthService.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthService.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthService.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthService.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthService.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthService.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthService.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/AuthService~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Services/CalorieService.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/CalorieService~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/Services/UserService.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserService.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserService.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserService.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserService.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserService.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserService.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserService.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UserService~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/UIColor.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIColor~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/DailyEnergy/UIImage.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/UIImage~partial.swiftmodule"
+  },
+  "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/liangjiangbin/Documents/每日热量-v1/DailyEnergy-iOS/build/DailyEnergy.build/Debug-iphoneos/DailyEnergy.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

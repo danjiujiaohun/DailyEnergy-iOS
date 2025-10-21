@@ -34,6 +34,10 @@
 		E19F488D2BD7B01000754E38 /* UIFontExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19F48872BD7B00F00754E38 /* UIFontExt.swift */; };
 		E19F488E2BD7B01000754E38 /* UILabelExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19F48882BD7B00F00754E38 /* UILabelExt.swift */; };
 		E19F488F2BD7B01000754E38 /* AdapterExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19F48892BD7B01000754E38 /* AdapterExt.swift */; };
+		E1D99AFD2EA7D42F00CC4339 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D99AF42EA7D42F00CC4339 /* HomeViewController.swift */; };
+		E1D99AFE2EA7D42F00CC4339 /* ProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D99AF72EA7D42F00CC4339 /* ProfileViewModel.swift */; };
+		E1D99AFF2EA7D42F00CC4339 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D99AF22EA7D42F00CC4339 /* HomeViewModel.swift */; };
+		E1D99B002EA7D42F00CC4339 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D99AF92EA7D42F00CC4339 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +72,10 @@
 		E19F48872BD7B00F00754E38 /* UIFontExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIFontExt.swift; sourceTree = "<group>"; };
 		E19F48882BD7B00F00754E38 /* UILabelExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabelExt.swift; sourceTree = "<group>"; };
 		E19F48892BD7B01000754E38 /* AdapterExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdapterExt.swift; sourceTree = "<group>"; };
+		E1D99AF22EA7D42F00CC4339 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		E1D99AF42EA7D42F00CC4339 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		E1D99AF72EA7D42F00CC4339 /* ProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewModel.swift; sourceTree = "<group>"; };
+		E1D99AF92EA7D42F00CC4339 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +162,7 @@
 		E19F48682BD7A87E00754E38 /* DailyEnergy */ = {
 			isa = PBXGroup;
 			children = (
+				E1D99AFC2EA7D42F00CC4339 /* Features */,
 				E17BEDD42EA74FF50084B796 /* Services */,
 				E17BEDCA2EA74FED0084B796 /* Network */,
 				E17BEDC02EA74FE60084B796 /* Models */,
@@ -181,6 +190,65 @@
 				E19F48882BD7B00F00754E38 /* UILabelExt.swift */,
 			);
 			path = BaseUnit;
+			sourceTree = "<group>";
+		};
+		E1D99AF32EA7D42F00CC4339 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				E1D99AF22EA7D42F00CC4339 /* HomeViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		E1D99AF52EA7D42F00CC4339 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E1D99AF42EA7D42F00CC4339 /* HomeViewController.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E1D99AF62EA7D42F00CC4339 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				E1D99AF32EA7D42F00CC4339 /* ViewModels */,
+				E1D99AF52EA7D42F00CC4339 /* Views */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		E1D99AF82EA7D42F00CC4339 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				E1D99AF72EA7D42F00CC4339 /* ProfileViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		E1D99AFA2EA7D42F00CC4339 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E1D99AF92EA7D42F00CC4339 /* ProfileViewController.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E1D99AFB2EA7D42F00CC4339 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				E1D99AF82EA7D42F00CC4339 /* ViewModels */,
+				E1D99AFA2EA7D42F00CC4339 /* Views */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		E1D99AFC2EA7D42F00CC4339 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				E1D99AF62EA7D42F00CC4339 /* Home */,
+				E1D99AFB2EA7D42F00CC4339 /* Profile */,
+			);
+			path = Features;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -316,6 +384,10 @@
 				E19F486A2BD7A87E00754E38 /* AppDelegate.swift in Sources */,
 				E19F488F2BD7B01000754E38 /* AdapterExt.swift in Sources */,
 				E19F488E2BD7B01000754E38 /* UILabelExt.swift in Sources */,
+				E1D99AFD2EA7D42F00CC4339 /* HomeViewController.swift in Sources */,
+				E1D99AFE2EA7D42F00CC4339 /* ProfileViewModel.swift in Sources */,
+				E1D99AFF2EA7D42F00CC4339 /* HomeViewModel.swift in Sources */,
+				E1D99B002EA7D42F00CC4339 /* ProfileViewController.swift in Sources */,
 				E19F488C2BD7B01000754E38 /* Common.swift in Sources */,
 				E17BEDD52EA74FF50084B796 /* CalorieService.swift in Sources */,
 				E17BEDD62EA74FF50084B796 /* AIService.swift in Sources */,

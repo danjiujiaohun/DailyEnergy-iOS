@@ -73,4 +73,16 @@ public enum ColorName:String,CaseIterable {
     
     /// 0x030213 深色进度条
     case color_030213
+    
+    /// 0xFFF5F0 橙色背景
+    case color_FFF5F0
+    
+    /// 0xF5F3FF 紫色背景
+    case color_F5F3FF
+    
+    /// 0xE9D4FF 紫色边框
+    case color_E9D4FF
+    
+    /// 0xFFB84D 橙色渐变
+    case color_FFB84D
 }

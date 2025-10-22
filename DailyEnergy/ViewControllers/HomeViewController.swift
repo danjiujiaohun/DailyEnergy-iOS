@@ -59,11 +59,7 @@ class HomeViewController: BaseViewController {
     private let chartView = UIView()
     private let chartDescriptionLabel = UILabel()
     
-    // 底部导航栏
-    private let bottomTabBar = UIView()
-    private let homeTabButton = UIButton()
-    private let addTabButton = UIButton()
-    private let profileTabButton = UIButton()
+
     
     // MARK: - Lifecycle
     override func viewDidLoad() {
@@ -77,8 +73,8 @@ class HomeViewController: BaseViewController {
     private func setupUI() {
         view.backgroundColor = UIColor.color(.color_FFFFFF)
         
-        // 设置导航栏
-        navigationController?.setNavigationBarHidden(true, animated: false)
+        // RTRootNavigationController会自动管理导航栏，这里设置隐藏
+        isNavBarisHidden = true
         
         // 添加主要视图
         view.addSubview(scrollView)
@@ -89,7 +85,6 @@ class HomeViewController: BaseViewController {
         setupFoodSection()
         setupExerciseSection()
         setupChartSection()
-        setupBottomTabBar()
     }
     
     private func setupGreetingSection() {
@@ -437,36 +432,7 @@ class HomeViewController: BaseViewController {
         chartDescriptionLabel.textAlignment = .center
     }
     
-    private func setupBottomTabBar() {
-        view.addSubview(bottomTabBar)
-        
-        bottomTabBar.backgroundColor = UIColor.color(.color_FFFFFF)
-        bottomTabBar.layer.shadowColor = UIColor.black.cgColor
-        bottomTabBar.layer.shadowOpacity = 0.1
-        bottomTabBar.layer.shadowOffset = CGSize(width: 0, height: -2)
-        bottomTabBar.layer.shadowRadius = 8
-        
-        bottomTabBar.addSubview(homeTabButton)
-        bottomTabBar.addSubview(addTabButton)
-        bottomTabBar.addSubview(profileTabButton)
-        
-        // 首页按钮
-        homeTabButton.setTitle("首页", for: .normal)
-        homeTabButton.setTitleColor(UIColor.color(.color_5ED4A4), for: .normal)
-        homeTabButton.titleLabel?.font = UIFont.systemFont(ofSize: 12)
-        
-        // 添加按钮
-        addTabButton.backgroundColor = UIColor.color(.color_5ED4A4)
-        addTabButton.layer.cornerRadius = 28
-        addTabButton.setTitle("+", for: .normal)
-        addTabButton.setTitleColor(.white, for: .normal)
-        addTabButton.titleLabel?.font = UIFont.systemFont(ofSize: 24, weight: .medium)
-        
-        // 个人中心按钮
-        profileTabButton.setTitle("我的", for: .normal)
-        profileTabButton.setTitleColor(UIColor.color(.color_99A1AF), for: .normal)
-        profileTabButton.titleLabel?.font = UIFont.systemFont(ofSize: 12)
-    }
+
     
     // MARK: - Helper Methods
     private func addFoodItem(emoji: String, title: String, time: String, calories: String) {
@@ -529,12 +495,12 @@ class HomeViewController: BaseViewController {
         
         calorieLabel.snp.makeConstraints { make in
             make.right.equalTo(unitLabel.snp.left).offset(-4)
-            make.top.equalToSuperview().offset(16)
+            make.centerY.equalToSuperview()
         }
         
         unitLabel.snp.makeConstraints { make in
             make.right.equalToSuperview().offset(-16)
-            make.top.equalTo(calorieLabel.snp.bottom).offset(4)
+            make.centerY.equalTo(calorieLabel)
         }
         
         itemView.snp.makeConstraints { make in
@@ -604,12 +570,12 @@ class HomeViewController: BaseViewController {
         
         calorieLabel.snp.makeConstraints { make in
             make.right.equalTo(unitLabel.snp.left).offset(-4)
-            make.top.equalToSuperview().offset(16)
+            make.centerY.equalToSuperview()
         }
         
         unitLabel.snp.makeConstraints { make in
             make.right.equalToSuperview().offset(-16)
-            make.top.equalTo(calorieLabel.snp.bottom).offset(4)
+            make.centerY.equalTo(calorieLabel)
         }
         
         itemView.snp.makeConstraints { make in
@@ -821,35 +787,9 @@ class HomeViewController: BaseViewController {
             make.bottom.equalToSuperview().offset(-24)
         }
         
-        // 底部导航栏约束
-        bottomTabBar.snp.makeConstraints { make in
-            make.left.right.bottom.equalToSuperview()
-            make.height.equalTo(88)
-        }
-        
-        homeTabButton.snp.makeConstraints { make in
-            make.left.equalToSuperview().offset(40)
-            make.top.equalToSuperview().offset(12)
-            make.width.equalTo(60)
-            make.height.equalTo(40)
-        }
-        
-        addTabButton.snp.makeConstraints { make in
-            make.centerX.equalToSuperview()
-            make.top.equalToSuperview().offset(8)
-            make.width.height.equalTo(56)
-        }
-        
-        profileTabButton.snp.makeConstraints { make in
-            make.right.equalToSuperview().offset(-40)
-            make.top.equalToSuperview().offset(12)
-            make.width.equalTo(60)
-            make.height.equalTo(40)
-        }
-        
         // 设置contentView的底部约束
         contentView.snp.makeConstraints { make in
-            make.bottom.equalTo(chartSectionView.snp.bottom).offset(112)
+            make.bottom.equalTo(chartSectionView.snp.bottom).offset(24)
         }
     }
     

@@ -1,0 +1,11 @@
+.DS_Store
+*.DS_Store
+*.xcuserstate
+
+# 使用通配符
+*.log
+*.tmp
+
+# 忽略特定路径的文件夹
+#src/temp/
+#public/uploads/

@@ -75,21 +75,21 @@ class ProfileViewController: BaseViewController {
         
         // 设置卡片样式 - 346x261px
         userInfoCardView.backgroundColor = UIColor.color(.color_FFFFFF)
-        userInfoCardView.layer.cornerRadius = 24
-        userInfoCardView.layer.borderWidth = 1
+        userInfoCardView.layer.cornerRadius = 24.fit()
+        userInfoCardView.layer.borderWidth = 1.fit()
         userInfoCardView.layer.borderColor = UIColor.color(.color_A8E6CF).withAlphaComponent(0.3).cgColor
         
         // 阴影效果
         userInfoCardView.layer.shadowColor = UIColor.black.cgColor
         userInfoCardView.layer.shadowOpacity = 0.1
-        userInfoCardView.layer.shadowOffset = CGSize(width: 0, height: 10)
-        userInfoCardView.layer.shadowRadius = 15
+        userInfoCardView.layer.shadowOffset = CGSize(width: 0, height: 10.fit())
+        userInfoCardView.layer.shadowRadius = 15.fit()
         userInfoCardView.layer.masksToBounds = false
         
         // 头像 - 80x73px，圆形
         userInfoCardView.addSubview(avatarImageView)
-        avatarImageView.layer.cornerRadius = 40
-        avatarImageView.layer.borderWidth = 3
+        avatarImageView.layer.cornerRadius = 40.fit()
+        avatarImageView.layer.borderWidth = 3.fit()
         avatarImageView.layer.borderColor = UIColor.color(.color_A8E6CF).withAlphaComponent(0.3).cgColor
         avatarImageView.clipsToBounds = true
         
@@ -97,7 +97,7 @@ class ProfileViewController: BaseViewController {
         let avatarLabel = UILabel()
         avatarImageView.addSubview(avatarLabel)
         avatarLabel.text = "小"
-        avatarLabel.font = UIFont.systemFont(ofSize: 24, weight: .medium)
+        avatarLabel.font = UIFont.systemFont(ofSize: 24.fit(), weight: .medium)
         avatarLabel.textColor = .white
         avatarLabel.textAlignment = .center
         
@@ -112,7 +112,7 @@ class ProfileViewController: BaseViewController {
         // 用户名
         userInfoContainer.addSubview(nameLabel)
         nameLabel.text = "小明"
-        nameLabel.font = UIFont.systemFont(ofSize: 20, weight: .medium)
+        nameLabel.font = UIFont.systemFont(ofSize: 20.fit(), weight: .medium)
         nameLabel.textColor = UIColor.color(.color_0A0A0A)
         
         // 用户详细信息
@@ -157,15 +157,15 @@ class ProfileViewController: BaseViewController {
         
         // 约束设置
         avatarImageView.snp.makeConstraints { make in
-            make.left.equalToSuperview().offset(23)
-            make.top.equalToSuperview().offset(23)
-            make.width.height.equalTo(80)
+            make.left.equalToSuperview().offset(23.fit())
+            make.top.equalToSuperview().offset(23.fit())
+            make.width.height.equalTo(80.fit())
         }
         
         userInfoContainer.snp.makeConstraints { make in
-            make.left.equalTo(avatarImageView.snp.right).offset(16)
+            make.left.equalTo(avatarImageView.snp.right).offset(16.fit())
             make.top.equalTo(avatarImageView)
-            make.right.equalToSuperview().offset(-23)
+            make.right.equalToSuperview().offset(-23.fit())
         }
         
         nameLabel.snp.makeConstraints { make in
@@ -173,16 +173,16 @@ class ProfileViewController: BaseViewController {
         }
         
         userInfoStackView.snp.makeConstraints { make in
-            make.top.equalTo(nameLabel.snp.bottom).offset(4)
+            make.top.equalTo(nameLabel.snp.bottom).offset(4.fit())
             make.left.equalToSuperview()
             make.bottom.equalToSuperview()
         }
         
         dataContainerView.snp.makeConstraints { make in
-            make.left.equalToSuperview().offset(23)
-            make.right.equalToSuperview().offset(-23)
-            make.bottom.equalToSuperview().offset(-23)
-            make.height.equalTo(84)
+            make.left.equalToSuperview().offset(23.fit())
+            make.right.equalToSuperview().offset(-23.fit())
+            make.bottom.equalToSuperview().offset(-23.fit())
+            make.height.equalTo(84.fit())
         }
         
         currentWeightContainerView.snp.makeConstraints { make in
@@ -235,18 +235,18 @@ class ProfileViewController: BaseViewController {
         // 约束设置
         checkinStatsView.snp.makeConstraints { make in
             make.left.top.bottom.equalToSuperview()
-            make.width.equalTo(107)
+            make.width.equalTo(107.fit())
         }
         
         weightLossStatsView.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
             make.top.bottom.equalToSuperview()
-            make.width.equalTo(107)
+            make.width.equalTo(107.fit())
         }
         
         usageDaysStatsView.snp.makeConstraints { make in
             make.right.top.bottom.equalToSuperview()
-            make.width.equalTo(107)
+            make.width.equalTo(107.fit())
         }
     }
     
@@ -255,15 +255,15 @@ class ProfileViewController: BaseViewController {
         
         // 设置卡片样式 - 346x225px，匹配Figma设计
         weightGoalCardView.backgroundColor = UIColor.color(.color_FFFFFF)
-        weightGoalCardView.layer.cornerRadius = 24
-        weightGoalCardView.layer.borderWidth = 1
+        weightGoalCardView.layer.cornerRadius = 24.fit()
+        weightGoalCardView.layer.borderWidth = 1.fit()
         weightGoalCardView.layer.borderColor = UIColor.color(.color_F3F4F6).cgColor
         
         // 阴影效果
         weightGoalCardView.layer.shadowColor = UIColor.black.cgColor
         weightGoalCardView.layer.shadowOpacity = 0.1
-        weightGoalCardView.layer.shadowOffset = CGSize(width: 0, height: 1)
-        weightGoalCardView.layer.shadowRadius = 3
+        weightGoalCardView.layer.shadowOffset = CGSize(width: 0, height: 1.fit())
+        weightGoalCardView.layer.shadowRadius = 3.fit()
         weightGoalCardView.layer.masksToBounds = false
         
         // 标题区域
@@ -272,12 +272,12 @@ class ProfileViewController: BaseViewController {
         
         titleContainer.addSubview(goalTitleLabel)
         goalTitleLabel.text = "减重目标"
-        goalTitleLabel.font = UIFont.systemFont(ofSize: 18, weight: .medium)
+        goalTitleLabel.font = UIFont.systemFont(ofSize: 18.fit(), weight: .medium)
         goalTitleLabel.textColor = UIColor.color(.color_0A0A0A)
         
         titleContainer.addSubview(goalSubtitleLabel)
         goalSubtitleLabel.text = "还需减 7kg"
-        goalSubtitleLabel.font = UIFont.systemFont(ofSize: 14)
+        goalSubtitleLabel.font = UIFont.systemFont(ofSize: 14.fit())
         goalSubtitleLabel.textColor = UIColor.color(.color_6A7282)
         
         // 进度区域
@@ -290,23 +290,23 @@ class ProfileViewController: BaseViewController {
         
         let currentWeightTitleLabel = UILabel()
         currentWeightTitleLabel.text = "当前体重"
-        currentWeightTitleLabel.font = UIFont.systemFont(ofSize: 12)
+        currentWeightTitleLabel.font = UIFont.systemFont(ofSize: 12.fit())
         currentWeightTitleLabel.textColor = UIColor.color(.color_6A7282)
         currentWeightContainer.addSubview(currentWeightTitleLabel)
         
         currentWeightLabel.text = "72kg"
-        currentWeightLabel.font = UIFont.systemFont(ofSize: 20, weight: .medium)
+        currentWeightLabel.font = UIFont.systemFont(ofSize: 20.fit(), weight: .medium)
         currentWeightLabel.textColor = UIColor.color(.color_0A0A0A)
         currentWeightContainer.addSubview(currentWeightLabel)
         
         // 进度条
         progressContainer.addSubview(progressBarContainerView)
         progressBarContainerView.backgroundColor = UIColor.color(.color_F3F4F6)
-        progressBarContainerView.layer.cornerRadius = 4
+        progressBarContainerView.layer.cornerRadius = 4.fit()
         
         progressBarContainerView.addSubview(progressBarView)
         progressBarView.backgroundColor = UIColor.color(.color_030213)
-        progressBarView.layer.cornerRadius = 4
+        progressBarView.layer.cornerRadius = 4.fit()
         
         // 目标体重标签
         let targetWeightContainer = UIView()
@@ -314,33 +314,33 @@ class ProfileViewController: BaseViewController {
         
         let targetWeightTitleLabel = UILabel()
         targetWeightTitleLabel.text = "目标体重"
-        targetWeightTitleLabel.font = UIFont.systemFont(ofSize: 12)
+        targetWeightTitleLabel.font = UIFont.systemFont(ofSize: 12.fit())
         targetWeightTitleLabel.textColor = UIColor.color(.color_6A7282)
         targetWeightContainer.addSubview(targetWeightTitleLabel)
         
         targetWeightLabel.text = "65kg"
-        targetWeightLabel.font = UIFont.systemFont(ofSize: 20, weight: .medium)
+        targetWeightLabel.font = UIFont.systemFont(ofSize: 20.fit(), weight: .medium)
         targetWeightLabel.textColor = UIColor.color(.color_5ED4A4)
         targetWeightContainer.addSubview(targetWeightLabel)
         
         // 目标描述
         weightGoalCardView.addSubview(goalDescriptionView)
         goalDescriptionView.backgroundColor = UIColor.color(.color_DCEFEA)
-        goalDescriptionView.layer.cornerRadius = 16
+        goalDescriptionView.layer.cornerRadius = 16.fit()
         
         let goalDescriptionLabel = UILabel()
         goalDescriptionLabel.text = "🎯 预计 12周 达成目标"
-        goalDescriptionLabel.font = UIFont.systemFont(ofSize: 14)
+        goalDescriptionLabel.font = UIFont.systemFont(ofSize: 14.fit())
         goalDescriptionLabel.textColor = UIColor.color(.color_4A5565)
         goalDescriptionLabel.textAlignment = .center
         goalDescriptionView.addSubview(goalDescriptionLabel)
         
         // 约束设置
         titleContainer.snp.makeConstraints { make in
-            make.top.equalToSuperview().offset(23)
-            make.left.equalToSuperview().offset(23)
-            make.right.equalToSuperview().offset(-23)
-            make.height.equalTo(28)
+            make.top.equalToSuperview().offset(23.fit())
+            make.left.equalToSuperview().offset(23.fit())
+            make.right.equalToSuperview().offset(-23.fit())
+            make.height.equalTo(28.fit())
         }
         
         goalTitleLabel.snp.makeConstraints { make in
@@ -352,15 +352,15 @@ class ProfileViewController: BaseViewController {
         }
         
         progressContainer.snp.makeConstraints { make in
-            make.top.equalTo(titleContainer.snp.bottom).offset(40)
-            make.left.equalToSuperview().offset(23)
-            make.right.equalToSuperview().offset(-23)
-            make.height.equalTo(45)
+            make.top.equalTo(titleContainer.snp.bottom).offset(40.fit())
+            make.left.equalToSuperview().offset(23.fit())
+            make.right.equalToSuperview().offset(-23.fit())
+            make.height.equalTo(45.fit())
         }
         
         currentWeightContainer.snp.makeConstraints { make in
             make.left.top.bottom.equalToSuperview()
-            make.width.equalTo(59)
+            make.width.equalTo(59.fit())
         }
         
         currentWeightTitleLabel.snp.makeConstraints { make in
@@ -372,10 +372,10 @@ class ProfileViewController: BaseViewController {
         }
         
         progressBarContainerView.snp.makeConstraints { make in
-            make.left.equalTo(currentWeightContainer.snp.right).offset(16)
-            make.right.equalTo(targetWeightContainer.snp.left).offset(-16)
+            make.left.equalTo(currentWeightContainer.snp.right).offset(16.fit())
+            make.right.equalTo(targetWeightContainer.snp.left).offset(-16.fit())
             make.centerY.equalToSuperview()
-            make.height.equalTo(8)
+            make.height.equalTo(8.fit())
         }
         
         progressBarView.snp.makeConstraints { make in
@@ -385,7 +385,7 @@ class ProfileViewController: BaseViewController {
         
         targetWeightContainer.snp.makeConstraints { make in
             make.right.top.bottom.equalToSuperview()
-            make.width.equalTo(49)
+            make.width.equalTo(49.fit())
         }
         
         targetWeightTitleLabel.snp.makeConstraints { make in
@@ -397,11 +397,11 @@ class ProfileViewController: BaseViewController {
         }
         
         goalDescriptionView.snp.makeConstraints { make in
-            make.top.equalTo(progressContainer.snp.bottom).offset(12)
-            make.left.equalToSuperview().offset(23)
-            make.right.equalToSuperview().offset(-23)
-            make.bottom.equalToSuperview().offset(-23)
-            make.height.equalTo(52)
+            make.top.equalTo(progressContainer.snp.bottom).offset(12.fit())
+            make.left.equalToSuperview().offset(23.fit())
+            make.right.equalToSuperview().offset(-23.fit())
+            make.bottom.equalToSuperview().offset(-23.fit())
+            make.height.equalTo(52.fit())
         }
         
         goalDescriptionLabel.snp.makeConstraints { make in
@@ -414,15 +414,15 @@ class ProfileViewController: BaseViewController {
         
         // 设置卡片样式
         settingsCardView.backgroundColor = UIColor.color(.color_FFFFFF)
-        settingsCardView.layer.cornerRadius = 16
-        settingsCardView.layer.borderWidth = 1
+        settingsCardView.layer.cornerRadius = 16.fit()
+        settingsCardView.layer.borderWidth = 1.fit()
         settingsCardView.layer.borderColor = UIColor.color(.color_F3F4F6).cgColor
         
         // 阴影效果
         settingsCardView.layer.shadowColor = UIColor.black.cgColor
         settingsCardView.layer.shadowOpacity = 0.1
-        settingsCardView.layer.shadowOffset = CGSize(width: 0, height: 1)
-        settingsCardView.layer.shadowRadius = 3
+        settingsCardView.layer.shadowOffset = CGSize(width: 0, height: 1.fit())
+        settingsCardView.layer.shadowRadius = 3.fit()
         settingsCardView.layer.masksToBounds = false
         
         // 设置菜单项
@@ -442,7 +442,7 @@ class ProfileViewController: BaseViewController {
             
             menuItemView.snp.makeConstraints { make in
                 make.left.right.equalToSuperview()
-                make.height.equalTo(55)
+                make.height.equalTo(70.fit())
                 
                 if let previous = previousView {
                     make.top.equalTo(previous.snp.bottom)
@@ -458,10 +458,10 @@ class ProfileViewController: BaseViewController {
                 settingsCardView.addSubview(separatorView)
                 
                 separatorView.snp.makeConstraints { make in
-                    make.left.equalToSuperview().offset(16)
-                    make.right.equalToSuperview().offset(-16)
+                    make.left.equalToSuperview().offset(16.fit())
+                    make.right.equalToSuperview().offset(-16.fit())
                     make.top.equalTo(menuItemView.snp.bottom)
-                    make.height.equalTo(1)
+                    make.height.equalTo(1.fit())
                 }
                 
                 previousView = separatorView
@@ -475,45 +475,45 @@ class ProfileViewController: BaseViewController {
     private func createInfoLabel(text: String, color: UIColor) -> UILabel {
         let label = UILabel()
         label.text = text
-        label.font = UIFont.systemFont(ofSize: 14)
+        label.font = UIFont.systemFont(ofSize: 14.fit())
         label.textColor = color
         return label
     }
     
     private func setupDataContainer(container: UIView, title: String, value: String, unit: String, valueColor: UIColor) {
         container.backgroundColor = UIColor.color(.color_FFFFFF).withAlphaComponent(0.6)
-        container.layer.cornerRadius = 16
+        container.layer.cornerRadius = 16.fit()
         
         let titleLabel = UILabel()
         titleLabel.text = title
-        titleLabel.font = UIFont.systemFont(ofSize: 12)
+        titleLabel.font = UIFont.systemFont(ofSize: 12.fit())
         titleLabel.textColor = UIColor.color(.color_6A7282)
         container.addSubview(titleLabel)
         
         let valueLabel = UILabel()
         valueLabel.text = value
-        valueLabel.font = UIFont.systemFont(ofSize: 24, weight: .medium)
+        valueLabel.font = UIFont.systemFont(ofSize: 24.fit(), weight: .medium)
         valueLabel.textColor = valueColor
         container.addSubview(valueLabel)
         
         let unitLabel = UILabel()
         unitLabel.text = unit
-        unitLabel.font = UIFont.systemFont(ofSize: 14)
+        unitLabel.font = UIFont.systemFont(ofSize: 14.fit())
         unitLabel.textColor = UIColor.color(.color_99A1AF)
         container.addSubview(unitLabel)
         
         titleLabel.snp.makeConstraints { make in
-            make.top.equalToSuperview().offset(16)
+            make.top.equalToSuperview().offset(16.fit())
             make.centerX.equalToSuperview()
         }
         
         valueLabel.snp.makeConstraints { make in
-            make.top.equalTo(titleLabel.snp.bottom).offset(4)
+            make.top.equalTo(titleLabel.snp.bottom).offset(4.fit())
             make.centerX.equalToSuperview()
         }
         
         unitLabel.snp.makeConstraints { make in
-            make.left.equalTo(valueLabel.snp.right).offset(4)
+            make.left.equalTo(valueLabel.snp.right).offset(4.fit())
             make.centerY.equalTo(valueLabel)
         }
     }
@@ -521,14 +521,14 @@ class ProfileViewController: BaseViewController {
     private func setupStatsCard(cardView: UIView, value: String, title: String, iconName: iconName, backgroundColor: UIColor, borderColor: UIColor) {
         // 设置卡片样式 - 107x143px
         cardView.backgroundColor = backgroundColor
-        cardView.layer.cornerRadius = 16
-        cardView.layer.borderWidth = 1
+        cardView.layer.cornerRadius = 16.fit()
+        cardView.layer.borderWidth = 1.fit()
         cardView.layer.borderColor = borderColor.cgColor
         
         // 数值标签
         let valueLabel = UILabel()
         valueLabel.text = value
-        valueLabel.font = UIFont.systemFont(ofSize: 24, weight: .medium)
+        valueLabel.font = UIFont.systemFont(ofSize: 24.fit(), weight: .medium)
         valueLabel.textColor = UIColor.color(.color_0A0A0A)
         valueLabel.textAlignment = .center
         cardView.addSubview(valueLabel)
@@ -542,27 +542,27 @@ class ProfileViewController: BaseViewController {
         // 标题标签
         let titleLabel = UILabel()
         titleLabel.text = title
-        titleLabel.font = UIFont.systemFont(ofSize: 12)
+        titleLabel.font = UIFont.systemFont(ofSize: 12.fit())
         titleLabel.textColor = UIColor.color(.color_6A7282)
         titleLabel.textAlignment = .center
         cardView.addSubview(titleLabel)
         
         // 约束设置
         valueLabel.snp.makeConstraints { make in
-            make.top.equalToSuperview().offset(11)
+            make.top.equalToSuperview().offset(11.fit())
             make.centerX.equalToSuperview()
         }
         
         iconImageView.snp.makeConstraints { make in
-            make.top.equalTo(valueLabel.snp.bottom).offset(26)
+            make.top.equalTo(valueLabel.snp.bottom).offset(26.fit())
             make.centerX.equalToSuperview()
-            make.width.height.equalTo(18)
+            make.width.height.equalTo(18.fit())
         }
         
         titleLabel.snp.makeConstraints { make in
-            make.top.equalTo(iconImageView.snp.bottom).offset(8)
+            make.top.equalTo(iconImageView.snp.bottom).offset(8.fit())
             make.centerX.equalToSuperview()
-            make.bottom.lessThanOrEqualToSuperview().offset(-11)
+            make.bottom.lessThanOrEqualToSuperview().offset(-11.fit())
         }
     }
     
@@ -572,7 +572,7 @@ class ProfileViewController: BaseViewController {
         // 图标容器
         let iconContainer = UIView()
         iconContainer.backgroundColor = iconColor
-        iconContainer.layer.cornerRadius = 20
+        iconContainer.layer.cornerRadius = 20.fit()
         itemView.addSubview(iconContainer)
         
         // 图标
@@ -585,7 +585,7 @@ class ProfileViewController: BaseViewController {
         // 标题
         let titleLabel = UILabel()
         titleLabel.text = title
-        titleLabel.font = UIFont.systemFont(ofSize: 14)
+        titleLabel.font = UIFont.systemFont(ofSize: 14.fit())
         titleLabel.textColor = UIColor.color(.color_0A0A0A)
         itemView.addSubview(titleLabel)
         
@@ -603,25 +603,25 @@ class ProfileViewController: BaseViewController {
         
         // 约束设置
         iconContainer.snp.makeConstraints { make in
-            make.left.equalToSuperview().offset(16)
+            make.left.equalToSuperview().offset(16.fit())
             make.centerY.equalToSuperview()
-            make.width.height.equalTo(40)
+            make.width.height.equalTo(40.fit())
         }
         
         iconImageView.snp.makeConstraints { make in
             make.center.equalToSuperview()
-            make.width.height.equalTo(20)
+            make.width.height.equalTo(20.fit())
         }
         
         titleLabel.snp.makeConstraints { make in
-            make.left.equalTo(iconContainer.snp.right).offset(12)
+            make.left.equalTo(iconContainer.snp.right).offset(12.fit())
             make.centerY.equalToSuperview()
         }
         
         arrowImageView.snp.makeConstraints { make in
-            make.right.equalToSuperview().offset(-16)
+            make.right.equalToSuperview().offset(-16.fit())
             make.centerY.equalToSuperview()
-            make.width.height.equalTo(20)
+            make.width.height.equalTo(20.fit())
         }
         
         return itemView
@@ -641,39 +641,39 @@ class ProfileViewController: BaseViewController {
         
         // 用户信息卡片约束 - 346x261px
         userInfoCardView.snp.makeConstraints { make in
-            make.top.equalToSuperview().offset(16)
-            make.left.equalToSuperview().offset(24)
-            make.right.equalToSuperview().offset(-24)
-            make.height.equalTo(261)
+            make.top.equalToSuperview().offset(16.fit())
+            make.left.equalToSuperview().offset(24.fit())
+            make.right.equalToSuperview().offset(-24.fit())
+            make.height.equalTo(261.fit())
         }
         
         // 统计卡片约束 - 346x143px
         statsContainerView.snp.makeConstraints { make in
-            make.top.equalTo(userInfoCardView.snp.bottom).offset(24)
-            make.left.equalToSuperview().offset(24)
-            make.right.equalToSuperview().offset(-24)
-            make.height.equalTo(143)
+            make.top.equalTo(userInfoCardView.snp.bottom).offset(24.fit())
+            make.left.equalToSuperview().offset(24.fit())
+            make.right.equalToSuperview().offset(-24.fit())
+            make.height.equalTo(143.fit())
         }
         
         // 减重目标卡片约束 - 346x225px
         weightGoalCardView.snp.makeConstraints { make in
-            make.top.equalTo(statsContainerView.snp.bottom).offset(24)
-            make.left.equalToSuperview().offset(24)
-            make.right.equalToSuperview().offset(-24)
-            make.height.equalTo(225)
+            make.top.equalTo(statsContainerView.snp.bottom).offset(24.fit())
+            make.left.equalToSuperview().offset(24.fit())
+            make.right.equalToSuperview().offset(-24.fit())
+            make.height.equalTo(225.fit())
         }
         
         // 设置菜单约束
         settingsCardView.snp.makeConstraints { make in
-            make.top.equalTo(weightGoalCardView.snp.bottom).offset(24)
-            make.left.equalToSuperview().offset(24)
-            make.right.equalToSuperview().offset(-24)
-            make.height.equalTo(275) // 5个菜单项 * 55px
+            make.top.equalTo(weightGoalCardView.snp.bottom).offset(24.fit())
+            make.left.equalToSuperview().offset(24.fit())
+            make.right.equalToSuperview().offset(-24.fit())
+            make.height.equalTo(350.fit()) // 5个菜单项 * 70px
         }
         
         // 设置contentView的底部约束 - 确保滚动内容高度正确
         contentView.snp.makeConstraints { make in
-            make.bottom.equalTo(settingsCardView.snp.bottom).offset(112) // 底部留出足够空间
+            make.bottom.equalTo(settingsCardView.snp.bottom).offset(100.fit()) // 底部留出足够空间
         }
     }
     

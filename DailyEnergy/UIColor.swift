@@ -85,4 +85,7 @@ public enum ColorName:String,CaseIterable {
     
     /// 0xFFB84D 橙色渐变
     case color_FFB84D
+    
+    /// 0x6B73FF 紫色
+    case color_6B73FF
 }

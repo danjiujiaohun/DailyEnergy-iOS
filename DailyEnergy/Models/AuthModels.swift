@@ -10,28 +10,7 @@ import HandyJSON
 
 // MARK: - 认证相关模型
 
-/// 发送验证码响应
-struct SendCodeResponse: HandyJSON {
-    var success: Bool = false
-    var message: String = ""
-    
-    init() {}
-}
 
-/// 登录请求
-struct LoginRequest: HandyJSON {
-    var phone: String = ""
-    var code: String = ""
-    var loginType: String = ""
-    
-    init() {}
-    
-    init(phone: String, code: String, loginType: String) {
-        self.phone = phone
-        self.code = code
-        self.loginType = loginType
-    }
-}
 
 /// 登录响应
 struct LoginResponse: HandyJSON {

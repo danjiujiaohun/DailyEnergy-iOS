@@ -201,15 +201,6 @@ class NetworkManager {
 
 // MARK: - 便捷方法
 extension NetworkManager {
-    /// 发送验证码
-    func sendCode(phone: String, completion: @escaping (Result<SendCodeResponse, NetworkError>) -> Void) {
-        request(endpoint: .sendCode(phone: phone), responseType: SendCodeResponse.self, completion: completion)
-    }
-    
-    /// 用户登录
-    func login(phone: String, code: String, loginType: String, completion: @escaping (Result<LoginResponse, NetworkError>) -> Void) {
-        request(endpoint: .login(phone: phone, code: code, loginType: loginType), responseType: LoginResponse.self, completion: completion)
-    }
     
     /// 获取用户信息
     func getUserInfo(completion: @escaping (Result<UserInfo, NetworkError>) -> Void) {

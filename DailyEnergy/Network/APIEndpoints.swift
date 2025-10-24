@@ -11,8 +11,6 @@ import Alamofire
 /// API端点枚举
 enum APIEndpoint {
     // MARK: - 认证相关
-    case sendCode(phone: String)
-    case login(phone: String, code: String, loginType: String)
     case wechatLogin(code: String)
     case appleLogin(identityToken: String)
     case refreshToken
@@ -81,8 +79,6 @@ enum APIEndpoint {
     /// 请求路径
     var path: String {
         switch self {
-        case .sendCode: return "/auth/send-code"
-        case .login: return "/auth/login"
         case .wechatLogin: return "/auth/login/wechat"
         case .appleLogin: return "/auth/login/apple"
         case .refreshToken: return "/auth/refresh"
@@ -137,7 +133,7 @@ enum APIEndpoint {
     /// HTTP方法
     var method: HTTPMethod {
         switch self {
-        case .sendCode, .login, .wechatLogin, .appleLogin, .addFoodIntake, .addExerciseRecord,
+        case .wechatLogin, .appleLogin, .addFoodIntake, .addExerciseRecord,
              .uploadImage, .recognizeFood, .getFoodCalories, .uploadAvatar, .addWeightRecord, .logout:
             return .post
         case .updateUserProfile, .updateUserGoal, .updateWeightRecord, .updateCalorieRecord, .updateExerciseRecord:
@@ -152,10 +148,6 @@ enum APIEndpoint {
     /// 请求参数
     var parameters: [String: Any]? {
         switch self {
-        case .sendCode(let phone):
-            return ["phone": phone]
-        case .login(let phone, let code, let loginType):
-            return ["phone": phone, "code": code, "loginType": loginType]
         case .wechatLogin(let code):
             return ["code": code]
         case .appleLogin(let identityToken):
@@ -302,7 +294,7 @@ enum APIEndpoint {
     /// 是否需要认证
     var needsAuth: Bool {
         switch self {
-        case .sendCode, .login, .wechatLogin, .appleLogin:
+        case .wechatLogin, .appleLogin:
             return false
         default:
             return true

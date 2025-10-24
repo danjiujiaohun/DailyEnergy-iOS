@@ -18,32 +18,7 @@ class AuthService {
     
     // MARK: - 认证相关方法
     
-    /// 发送验证码
-    /// - Parameters:
-    ///   - phone: 手机号
-    ///   - completion: 完成回调
-    func sendCode(phone: String, completion: @escaping (Result<SendCodeResponse, NetworkError>) -> Void) {
-        networkManager.sendCode(phone: phone, completion: completion)
-    }
-    
-    /// 用户登录
-    /// - Parameters:
-    ///   - phone: 手机号
-    ///   - code: 验证码
-    ///   - loginType: 登录类型
-    ///   - completion: 完成回调
-    func login(phone: String, code: String, loginType: String = "phone", completion: @escaping (Result<LoginResponse, NetworkError>) -> Void) {
-        networkManager.login(phone: phone, code: code, loginType: loginType) { result in
-            switch result {
-            case .success(let response):
-                // 保存用户信息和token
-                self.saveUserInfo(response)
-                completion(.success(response))
-            case .failure(let error):
-                completion(.failure(error))
-            }
-        }
-    }
+
     
     /// 微信登录
     /// - Parameters:
